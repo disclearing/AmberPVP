@@ -1,0 +1,29 @@
+TITLE: "&6&lAmberPvP &c(SERVER)"
+LINES:
+  - "&r&7&m---------------------"
+  - "%SOTW%"
+  - "%SALE%"
+  - "%KEYSALE%"
+  - "%KOTH%"
+  - "&c&lLogout&7:&c %LOGOUT%"
+  - "&c&lSpawn Tag&7:&c %SPAWN_TAG%"
+  - "&e&lEnderpearl&7:&c %ENDER_PEARL%"
+  - "&a&lPvP Timer&7:&c %PVP_PROTECTION%"
+  - "&4&lStuck&7:&c %STUCK%"
+  - "&9&lHome: %HOME%"
+  - "&a&l%CLASS% Warmup:&c %CLASS_WARMUP%"
+  - "%BARD%"
+  - "&6&lArcher Mark: &c%ARCHER_TAG%"
+  - "&6God Apple&7: &c%GOLDEN_APPLE%"
+  - "&7&m---------------------&r"
+PLACE_HOLDER:
+  SOTW:
+   - "&a&l%SOTW%&7:&c %SOTWTIME%"
+  SALE:
+   - "&a&l%SALE%&7:&c %SALETIME%"
+  KEYSALE:
+   - "&a&l%KEYSALE%&7:&c %KEYSALETIME%"
+  KOTH:
+   - "&9&l%KOTH%&7:&c %TIME%"
+  BARD:
+   - "&b&lBard Energy&7:&c %ENERGY%"
